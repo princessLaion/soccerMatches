@@ -1,5 +1,5 @@
 Notes:
-	Database will be automatically created upon startup of tomcat. 
+	Database will be automatically created upon startup of tomcat.  
 ------------------------------------
 Environment / Tools:
 Maven		Apache Maven 3.3.9
